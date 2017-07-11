@@ -1,0 +1,1339 @@
+2016-09-21 11:33:06 pid:4684 Workerman[start.php] start in DEBUG mode
+2016-09-21 11:33:10 pid:4684 Workerman[start.php] Stopping ...
+2016-09-21 11:33:10 pid:4684 Workerman[start.php] has been stopped
+2016-09-21 11:34:43 pid:4753 Workerman[start.php] start in DEBUG mode
+2016-09-21 13:51:48 pid:4753 Workerman[start.php] Stopping ...
+2016-09-21 13:51:48 pid:4753 Workerman[start.php] has been stopped
+2016-09-21 13:54:12 pid:4945 Workerman[start.php] start in DEBUG mode
+2016-09-21 14:04:52 pid:4945 Workerman[start.php] Stopping ...
+2016-09-21 14:04:52 pid:4945 Workerman[start.php] has been stopped
+2016-09-21 14:04:54 pid:4959 Workerman[start.php] start in DEBUG mode
+2016-09-21 14:10:46 pid:4959 Workerman[start.php] Stopping ...
+2016-09-21 14:10:46 pid:4959 Workerman[start.php] has been stopped
+2016-09-21 14:10:47 pid:4982 Workerman[start.php] start in DEBUG mode
+2016-09-21 14:24:59 pid:4982 Workerman[start.php] Stopping ...
+2016-09-21 14:24:59 pid:4982 Workerman[start.php] has been stopped
+2016-09-21 14:25:01 pid:5041 Workerman[start.php] start in DEBUG mode
+2016-09-21 14:26:55 pid:5041 Workerman[start.php] Stopping ...
+2016-09-21 14:26:55 pid:5041 Workerman[start.php] has been stopped
+2016-09-21 14:26:56 pid:5052 Workerman[start.php] start in DEBUG mode
+2016-09-21 14:30:28 pid:5054 WORKER EXIT UNEXPECTED E_ERROR Cannot use object of type stdClass as array in /home/GatewayWorker/Applications/YourApp/Events.php on line 53
+2016-09-21 14:30:28 pid:5052 worker[YourAppBusinessWorker:5054] exit with status 65280
+2016-09-21 14:33:39 pid:5052 Workerman[start.php] Stopping ...
+2016-09-21 14:33:39 pid:5052 Workerman[start.php] has been stopped
+2016-09-21 14:33:40 pid:5064 Workerman[start.php] start in DEBUG mode
+2016-09-21 14:36:42 pid:5064 Workerman[start.php] Stopping ...
+2016-09-21 14:36:42 pid:5064 Workerman[start.php] has been stopped
+2016-09-21 14:37:31 pid:5083 Workerman[start.php] start in DEBUG mode
+2016-09-21 14:40:18 pid:5083 Workerman[start.php] Stopping ...
+2016-09-21 14:40:18 pid:5083 Workerman[start.php] has been stopped
+2016-09-21 14:40:19 pid:5104 Workerman[start.php] start in DEBUG mode
+2016-09-21 14:43:56 pid:5104 Workerman[start.php] Stopping ...
+2016-09-21 14:43:56 pid:5104 Workerman[start.php] has been stopped
+2016-09-21 14:43:57 pid:5115 Workerman[start.php] start in DEBUG mode
+2016-09-21 14:58:20 pid:5115 Workerman[start.php] Stopping ...
+2016-09-21 14:58:20 pid:5115 Workerman[start.php] has been stopped
+2016-09-21 14:58:21 pid:5167 Workerman[start.php] start in DEBUG mode
+2016-09-21 15:02:19 pid:5167 Workerman[start.php] Stopping ...
+2016-09-21 15:02:19 pid:5167 Workerman[start.php] has been stopped
+2016-09-21 15:02:21 pid:5179 Workerman[start.php] start in DEBUG mode
+2016-09-21 15:15:14 pid:5179 Workerman[start.php] Stopping ...
+2016-09-21 15:15:14 pid:5179 Workerman[start.php] has been stopped
+2016-09-21 15:15:15 pid:5208 Workerman[start.php] start in DEBUG mode
+2016-09-21 15:22:43 pid:5208 Workerman[start.php] Stopping ...
+2016-09-21 15:22:43 pid:5208 Workerman[start.php] has been stopped
+2016-09-21 15:22:45 pid:5222 Workerman[start.php] start in DEBUG mode
+2016-09-21 15:23:00 pid:5222 Workerman[start.php] Stopping ...
+2016-09-21 15:23:00 pid:5222 Workerman[start.php] has been stopped
+2016-09-21 15:23:02 pid:5232 Workerman[start.php] start in DEBUG mode
+2016-09-21 15:46:24 pid:5232 Workerman[start.php] Stopping ...
+2016-09-21 15:46:24 pid:5232 Workerman[start.php] has been stopped
+2016-09-21 15:46:25 pid:5268 Workerman[start.php] start in DEBUG mode
+2016-09-22 09:56:25 pid:6776 Workerman[start.php] start in DEBUG mode
+2016-09-22 10:04:14 pid:6776 Workerman[start.php] Stopping ...
+2016-09-22 10:04:14 pid:6776 Workerman[start.php] has been stopped
+2016-09-22 10:04:17 pid:6836 Workerman[start.php] start in DEBUG mode
+2016-09-22 15:25:02 pid:6836 Workerman[start.php] Stopping ...
+2016-09-22 15:25:02 pid:6836 Workerman[start.php] has been stopped
+2016-09-22 15:25:04 pid:7135 Workerman[start.php] start in DEBUG mode
+2016-09-23 09:52:49 pid:8587 Workerman[start.php] start in DEBUG mode
+2016-09-26 15:31:15 pid:25649 Workerman[start.php] start in DEBUG mode
+2016-09-27 09:21:50 pid:28548 Workerman[start.php] start in DEBUG mode
+2016-09-27 17:02:28 pid:28548 Workerman[start.php] Stopping ...
+2016-09-27 17:02:28 pid:28548 Workerman[start.php] has been stopped
+2016-09-27 17:02:50 pid:29229 Workerman[start.php] start in DEBUG mode
+2016-09-28 09:23:31 pid:30595 Workerman[start.php] start in DEBUG mode
+2016-09-28 09:55:01 pid:30595 Workerman[start.php] Stopping ...
+2016-09-28 09:55:01 pid:30595 Workerman[start.php] has been stopped
+2016-09-28 09:55:03 pid:30684 Workerman[start.php] start in DEBUG mode
+2016-09-29 09:22:59 pid:32320 Workerman[start.php] start in DEBUG mode
+2016-09-30 09:00:44 pid:2992 Workerman[start.php] start in DEBUG mode
+2016-09-30 13:09:05 pid:2992 Workerman[start.php] Stopping ...
+2016-09-30 13:09:05 pid:2992 Workerman[start.php] has been stopped
+2016-09-30 13:15:21 pid:4351 Workerman[start.php] start in DEBUG mode
+2016-10-07 20:35:48 pid:21951 Workerman[start.php] start in DEBUG mode
+2016-10-08 22:31:07 pid:23807 Workerman[start.php] start in DEBUG mode
+2016-10-09 09:05:23 pid:24832 Workerman[start.php] start in DEBUG mode
+2016-10-09 10:14:43 pid:25053 Workerman[start.php] start in DEBUG mode
+2016-10-10 10:38:33 pid:27249 Workerman[start.php] start in DEBUG mode
+2016-10-11 08:43:33 pid:28883 Workerman[start.php] start in DEBUG mode
+2016-10-11 19:22:29 pid:29627 Workerman[start.php] start in DEBUG mode
+2016-10-12 11:37:38 pid:30676 Workerman[start.php] start in DEBUG mode
+2016-10-12 16:33:43 pid:30676 Workerman[start.php] Stopping ...
+2016-10-12 16:33:43 pid:30676 Workerman[start.php] has been stopped
+2016-10-12 16:33:57 pid:30972 Workerman[start.php] start in DEBUG mode
+2016-10-12 21:18:58 pid:31303 Workerman[start.php] start in DEBUG mode
+2016-10-12 22:52:26 pid:31429 Workerman[start.php] start in DEBUG mode
+2016-10-13 10:10:35 pid:32217 Workerman[start.php] start in DEBUG mode
+2016-10-14 09:02:03 pid:1265 Workerman[start.php] start in DEBUG mode
+2016-10-17 17:11:33 pid:7484 Workerman[start.php] start in DEBUG mode
+2016-10-18 09:09:58 pid:8768 Workerman[start.php] start in DEBUG mode
+2016-10-18 10:12:51 pid:8768 Workerman[start.php] Stopping ...
+2016-10-18 10:12:51 pid:8768 Workerman[start.php] has been stopped
+2016-10-18 10:12:57 pid:8848 Workerman[start.php] start in DAEMON mode
+2016-10-18 10:13:04 pid:8867 Workerman[start.php] status 
+2016-10-18 10:13:34 pid:8892 Workerman[start.php] stop 
+2016-10-18 10:13:34 pid:8892 Workerman[start.php] is stoping ...
+2016-10-18 10:13:34 pid:8851 Workerman[start.php] Stopping ...
+2016-10-18 10:13:34 pid:8851 Workerman[start.php] has been stopped
+2016-10-18 10:13:34 pid:8892 Workerman[start.php] stop success
+2016-10-18 10:13:38 pid:8894 Workerman[start.php] status 
+2016-10-18 10:13:38 pid:8894 Workerman[start.php] not run
+2016-10-18 10:14:17 pid:8900 Workerman[start.php] start in DAEMON mode
+2016-10-19 10:08:06 pid:10731 Workerman[start.php] start in DEBUG mode
+2016-10-19 10:08:06 pid:10731 Workerman[start.php] already running
+2016-10-19 10:53:46 pid:10920 Workerman[start.php] start in DEBUG mode
+2016-10-19 10:53:46 pid:10920 Workerman[start.php] already running
+2016-10-19 10:53:50 pid:10922 Workerman[start.php] reload 
+2016-10-19 10:53:50 pid:8903 Workerman[start.php] reloading
+2016-10-19 10:53:50 pid:10922 Workerman[start.php] reload
+2016-10-19 10:53:56 pid:10928 Workerman[start.php] stop 
+2016-10-19 10:53:56 pid:10928 Workerman[start.php] is stoping ...
+2016-10-19 10:53:56 pid:8903 Workerman[start.php] Stopping ...
+2016-10-19 10:53:56 pid:8903 Workerman[start.php] has been stopped
+2016-10-19 10:53:56 pid:10928 Workerman[start.php] stop success
+2016-10-19 10:54:01 pid:10932 Workerman[start.php] strt 
+2016-10-19 10:54:01 pid:10932 Workerman[start.php] not run
+2016-10-19 10:54:04 pid:10934 Workerman[start.php] start in DEBUG mode
+2016-10-19 13:51:17 pid:10934 Workerman[start.php] Stopping ...
+2016-10-19 13:51:17 pid:10934 Workerman[start.php] has been stopped
+2016-10-19 13:51:19 pid:11211 Workerman[start.php] start in DAEMON mode
+2016-10-21 17:44:35 pid:1636 Workerman[start.php] start in DEBUG mode
+2016-10-21 17:48:22 pid:1636 Workerman[start.php] Stopping ...
+2016-10-21 17:48:22 pid:1636 Workerman[start.php] has been stopped
+2016-10-21 21:14:42 pid:1874 Workerman[start.php] start in DEBUG mode
+2016-10-21 21:48:32 pid:1874 Workerman[start.php] Stopping ...
+2016-10-21 21:48:32 pid:1874 Workerman[start.php] has been stopped
+2016-10-26 09:19:14 pid:11003 Workerman[start.php] start in DAEMON mode
+2016-11-04 20:41:48 pid:30621 Workerman[start.php] reload 
+2016-11-04 20:41:48 pid:11006 Workerman[start.php] reloading
+2016-11-04 20:41:48 pid:30621 Workerman[start.php] reload
+2016-11-04 20:48:30 pid:30656 Workerman[start.php] reload 
+2016-11-04 20:48:30 pid:11006 Workerman[start.php] reloading
+2016-11-04 20:48:30 pid:30656 Workerman[start.php] reload
+2016-11-28 21:27:42 pid:32545 Workerman[start.php] restart 
+2016-11-28 21:27:42 pid:32545 Workerman[start.php] is stoping ...
+2016-11-28 21:27:42 pid:11006 Workerman[start.php] Stopping ...
+2016-11-28 21:27:42 pid:11006 Workerman[start.php] has been stopped
+2016-11-28 21:27:42 pid:32545 Workerman[start.php] stop success
+2016-11-28 22:21:10 pid:32545 Workerman[start.php] Stopping ...
+2016-11-28 22:21:10 pid:32545 Workerman[start.php] has been stopped
+2016-11-28 22:21:21 pid:32656 Workerman[start.php] start in DAEMON mode
+2016-12-23 12:59:48 pid:32668 exception 'Exception' with message 'gateway inner pack err cmd=106' in /home/GatewayWorker/GatewayWorker/Gateway.php:765
+Stack trace:
+#0 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#1 /home/GatewayWorker/Workerman/Connection/TcpConnection.php(430): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #82)
+#3 /home/GatewayWorker/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#4 /home/GatewayWorker/Workerman/Worker.php(1471): Workerman\Events\Select->loop()
+#5 /home/GatewayWorker/GatewayWorker/Gateway.php(264): Workerman\Worker->run()
+#6 /home/GatewayWorker/Workerman/Worker.php(899): GatewayWorker\Gateway->run()
+#7 /home/GatewayWorker/Workerman/Worker.php(865): Workerman\Worker::forkOneWorker(Object(GatewayWorker\Gateway))
+#8 /home/GatewayWorker/Workerman/Worker.php(421): Workerman\Worker::forkWorkers()
+#9 /home/GatewayWorker/start.php(32): Workerman\Worker::runAll()
+#10 {main}
+2016-12-23 12:59:48 pid:32668 WORKER EXIT UNEXPECTED 
+2016-12-23 12:59:48 pid:32659 worker[GatewayWS:32668] exit with status 64000
+2016-12-23 12:59:48 pid:31554 exception 'Exception' with message 'gateway inner pack err cmd=255' in /home/GatewayWorker/GatewayWorker/Gateway.php:765
+Stack trace:
+#0 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#1 /home/GatewayWorker/Workerman/Connection/TcpConnection.php(430): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #57)
+#3 /home/GatewayWorker/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#4 /home/GatewayWorker/Workerman/Worker.php(1471): Workerman\Events\Select->loop()
+#5 /home/GatewayWorker/GatewayWorker/Gateway.php(264): Workerman\Worker->run()
+#6 /home/GatewayWorker/Workerman/Worker.php(899): GatewayWorker\Gateway->run()
+#7 /home/GatewayWorker/Workerman/Worker.php(865): Workerman\Worker::forkOneWorker(Object(GatewayWorker\Gateway))
+#8 /home/GatewayWorker/Workerman/Worker.php(1017): Workerman\Worker::forkWorkers()
+#9 /home/GatewayWorker/Workerman/Worker.php(424): Workerman\Worker::monitorWorkers()
+#10 /home/GatewayWorker/start.php(32): Workerman\Worker::runAll()
+#11 {main}
+2016-12-23 12:59:48 pid:31554 WORKER EXIT UNEXPECTED 
+2016-12-23 12:59:48 pid:32659 worker[GatewayWS:31554] exit with status 64000
+2016-12-29 16:54:09 pid:14637 Workerman[start.php] stop 
+2016-12-29 16:54:09 pid:14637 Workerman[start.php] is stoping ...
+2016-12-29 16:54:09 pid:32659 Workerman[start.php] Stopping ...
+2016-12-29 16:54:09 pid:32659 Workerman[start.php] has been stopped
+2016-12-29 16:54:09 pid:14637 Workerman[start.php] stop success
+2016-12-29 16:54:13 pid:14639 Workerman[start.php] start in DEBUG mode
+2016-12-29 16:57:58 pid:14639 Workerman[start.php] Stopping ...
+2016-12-29 16:57:59 pid:14639 Workerman[start.php] has been stopped
+2016-12-29 16:58:00 pid:14663 Workerman[start.php] start in DEBUG mode
+2016-12-29 17:12:44 pid:14663 Workerman[start.php] Stopping ...
+2016-12-29 17:12:44 pid:14663 Workerman[start.php] has been stopped
+2016-12-29 17:12:45 pid:14709 Workerman[start.php] start in DEBUG mode
+2016-12-29 17:16:32 pid:14709 Workerman[start.php] Stopping ...
+2016-12-29 17:16:32 pid:14709 Workerman[start.php] has been stopped
+2016-12-29 17:16:33 pid:14733 Workerman[start.php] start in DEBUG mode
+2016-12-29 18:01:21 pid:14733 Workerman[start.php] Stopping ...
+2016-12-29 18:01:21 pid:14733 Workerman[start.php] has been stopped
+2016-12-29 18:01:23 pid:14803 Workerman[start.php] start in DAEMON mode
+2017-01-05 09:42:14 pid:30645 Workerman[start.php] stop 
+2017-01-05 09:42:14 pid:30645 Workerman[start.php] is stoping ...
+2017-01-05 09:42:14 pid:14806 Workerman[start.php] Stopping ...
+2017-01-05 09:42:14 pid:14806 Workerman[start.php] has been stopped
+2017-01-05 09:42:14 pid:30645 Workerman[start.php] stop success
+2017-01-05 09:42:18 pid:30647 Workerman[start.php] start in DAEMON mode
+2017-01-05 09:42:40 pid:30668 Workerman[start.php] stop 
+2017-01-05 09:42:40 pid:30668 Workerman[start.php] is stoping ...
+2017-01-05 09:42:40 pid:30650 Workerman[start.php] Stopping ...
+2017-01-05 09:42:40 pid:30650 Workerman[start.php] has been stopped
+2017-01-05 09:42:40 pid:30668 Workerman[start.php] stop success
+2017-01-05 09:42:43 pid:30670 Workerman[start.php] start in DEBUG mode
+2017-01-05 09:43:28 pid:30670 Workerman[start.php] Stopping ...
+2017-01-05 09:43:28 pid:30670 Workerman[start.php] has been stopped
+2017-01-05 09:44:24 pid:30757 Workerman[start.php] start in DEBUG mode
+2017-01-05 09:46:28 pid:30757 Workerman[start.php] Stopping ...
+2017-01-05 09:46:28 pid:30757 Workerman[start.php] has been stopped
+2017-01-05 09:46:30 pid:30779 Workerman[start.php] start in DEBUG mode
+2017-01-05 10:06:47 pid:30779 Workerman[start.php] Stopping ...
+2017-01-05 10:06:47 pid:30779 Workerman[start.php] has been stopped
+2017-01-05 10:06:49 pid:30839 Workerman[start.php] start in DEBUG mode
+2017-01-05 11:08:10 pid:30839 Workerman[start.php] Stopping ...
+2017-01-05 11:08:10 pid:30839 Workerman[start.php] has been stopped
+2017-01-05 11:08:12 pid:30933 Workerman[start.php] start in DAEMON mode
+2017-01-06 09:55:58 pid:842 Workerman[start.php] stop 
+2017-01-06 09:55:58 pid:842 Workerman[start.php] is stoping ...
+2017-01-06 09:55:58 pid:30936 Workerman[start.php] Stopping ...
+2017-01-06 09:55:58 pid:30936 Workerman[start.php] has been stopped
+2017-01-06 09:55:58 pid:842 Workerman[start.php] stop success
+2017-01-06 09:56:02 pid:844 Workerman[start.php] start in DEBUG mode
+2017-01-06 10:06:58 pid:844 Workerman[start.php] Stopping ...
+2017-01-06 10:06:59 pid:844 Workerman[start.php] has been stopped
+2017-01-06 10:07:00 pid:923 Workerman[start.php] start in DEBUG mode
+2017-01-06 10:10:19 pid:923 Workerman[start.php] Stopping ...
+2017-01-06 10:10:19 pid:923 Workerman[start.php] has been stopped
+2017-01-06 10:10:22 pid:964 Workerman[start.php] start in DEBUG mode
+2017-01-06 14:59:18 pid:964 Workerman[start.php] Stopping ...
+2017-01-06 14:59:18 pid:964 Workerman[start.php] has been stopped
+2017-01-06 14:59:21 pid:1493 Workerman[start.php] start in DAEMON mode
+2017-01-09 15:25:59 pid:9540 Workerman[start.php] status 
+2017-01-09 15:29:57 pid:9546 Workerman[start.php] stop 
+2017-01-09 15:29:57 pid:9546 Workerman[start.php] is stoping ...
+2017-01-09 15:29:57 pid:1496 Workerman[start.php] Stopping ...
+2017-01-09 15:29:57 pid:1496 Workerman[start.php] has been stopped
+2017-01-09 15:29:57 pid:9546 Workerman[start.php] stop success
+2017-01-09 15:30:22 pid:9550 Workerman[start.php] start in DAEMON mode
+2017-01-09 16:33:05 pid:9779 Workerman[start.php] stop 
+2017-01-09 16:33:05 pid:9779 Workerman[start.php] is stoping ...
+2017-01-09 16:33:05 pid:9553 Workerman[start.php] Stopping ...
+2017-01-09 16:33:05 pid:9553 Workerman[start.php] has been stopped
+2017-01-09 16:33:05 pid:9779 Workerman[start.php] stop success
+2017-01-09 16:37:23 pid:1510 Workerman[start.php] status 
+2017-01-09 16:37:23 pid:1510 Workerman[start.php] not run
+2017-01-09 16:37:42 pid:1513 Workerman[start.php] start in DAEMON mode
+2017-01-09 16:38:11 pid:1574 Workerman[start.php] status 
+2017-01-09 16:48:29 pid:1501 Workerman[start.php] status 
+2017-01-09 16:48:29 pid:1501 Workerman[start.php] not run
+2017-01-09 16:52:31 pid:1582 Workerman[start.php] start in DAEMON mode
+2017-01-09 17:02:45 pid:1937 Workerman[start.php] start in DAEMON mode
+2017-01-09 17:02:45 pid:1937 Workerman[start.php] already running
+2017-01-09 17:03:31 pid:1287 Workerman[start.php] start in DAEMON mode
+2017-01-09 17:08:09 pid:1519 Workerman[start.php] status 
+2017-01-09 17:09:20 pid:1540 Workerman[start.php] start in DAEMON mode
+2017-01-09 17:09:20 pid:1540 Workerman[start.php] already running
+2017-01-09 17:09:24 pid:1542 Workerman[start.php] stop 
+2017-01-09 17:09:24 pid:1542 Workerman[start.php] is stoping ...
+2017-01-09 17:09:24 pid:1290 Workerman[start.php] Stopping ...
+2017-01-09 17:09:24 pid:1290 Workerman[start.php] has been stopped
+2017-01-09 17:09:24 pid:1542 Workerman[start.php] stop success
+2017-01-09 17:09:33 pid:1771 Workerman[start.php] start in DAEMON mode
+2017-01-09 17:10:19 pid:1327 Workerman[start.php] start in DAEMON mode
+2017-01-09 17:10:24 pid:1419 Workerman[start.php] status 
+2017-01-09 17:35:11 pid:1558 Workerman[start.php] status 
+2017-01-10 15:33:52 pid:3392 Workerman[start.php] reload 
+2017-01-10 15:33:52 pid:1330 Workerman[start.php] reloading
+2017-01-10 15:33:52 pid:3392 Workerman[start.php] reload
+2017-01-10 15:41:31 pid:3448 Workerman[start.php] stop 
+2017-01-10 15:41:31 pid:3448 Workerman[start.php] is stoping ...
+2017-01-10 15:41:31 pid:1330 Workerman[start.php] Stopping ...
+2017-01-10 15:41:32 pid:1330 Workerman[start.php] has been stopped
+2017-01-10 15:41:32 pid:3448 Workerman[start.php] stop success
+2017-01-10 15:41:46 pid:3450 Workerman[start.php] start in DEBUG mode
+2017-01-10 15:49:18 pid:3450 Workerman[start.php] Stopping ...
+2017-01-10 15:49:18 pid:3450 Workerman[start.php] has been stopped
+2017-01-10 15:49:19 pid:3475 Workerman[start.php] start in DEBUG mode
+2017-01-10 15:49:19 pid:3479 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:19 pid:3480 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:19 pid:3478 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:19 pid:3477 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:19 pid:3475 worker[Worker:3478] exit with status 65280
+2017-01-10 15:49:19 pid:3475 worker[Worker:3479] exit with status 65280
+2017-01-10 15:49:19 pid:3475 worker[Worker:3477] exit with status 65280
+2017-01-10 15:49:19 pid:3475 worker[Worker:3480] exit with status 65280
+2017-01-10 15:49:20 pid:3494 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3495 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3496 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3497 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3495] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3496] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3497] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3494] exit with status 65280
+2017-01-10 15:49:20 pid:3498 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3499 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3501 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3500 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3501] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3499] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3498] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3500] exit with status 65280
+2017-01-10 15:49:20 pid:3502 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3503 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3504 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3505 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3502] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3504] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3503] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3505] exit with status 65280
+2017-01-10 15:49:20 pid:3506 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3507 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3508 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3509 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3506] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3507] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3508] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3509] exit with status 65280
+2017-01-10 15:49:20 pid:3510 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3511 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3512 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3513 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3511] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3510] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3512] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3513] exit with status 65280
+2017-01-10 15:49:20 pid:3514 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3515 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3516 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3517 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3514] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3515] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3516] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3517] exit with status 65280
+2017-01-10 15:49:20 pid:3518 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3519 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3520 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3521 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3521] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3520] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3518] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3519] exit with status 65280
+2017-01-10 15:49:20 pid:3522 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3523 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3524 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3525 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3523] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3522] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3524] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3525] exit with status 65280
+2017-01-10 15:49:20 pid:3526 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3528 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3527 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3529 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3528] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3526] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3529] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3527] exit with status 65280
+2017-01-10 15:49:20 pid:3531 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3532 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3530 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3533 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3530] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3532] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3533] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3531] exit with status 65280
+2017-01-10 15:49:20 pid:3534 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3535 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3537 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3536 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3535] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3534] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3537] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3536] exit with status 65280
+2017-01-10 15:49:20 pid:3538 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3539 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3541 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3540 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3538] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3539] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3541] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3540] exit with status 65280
+2017-01-10 15:49:20 pid:3542 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3543 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3544 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3545 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3542] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3543] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3545] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3544] exit with status 65280
+2017-01-10 15:49:20 pid:3546 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3547 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3549 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3548 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3546] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3547] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3549] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3548] exit with status 65280
+2017-01-10 15:49:20 pid:3550 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3551 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3552 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3553 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3551] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3550] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3552] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3553] exit with status 65280
+2017-01-10 15:49:20 pid:3554 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3555 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3554] exit with status 65280
+2017-01-10 15:49:20 pid:3557 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3556 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3555] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3557] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3556] exit with status 65280
+2017-01-10 15:49:20 pid:3558 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3559 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3560 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3559] exit with status 65280
+2017-01-10 15:49:20 pid:3561 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3558] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3560] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3561] exit with status 65280
+2017-01-10 15:49:20 pid:3562 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3563 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3564 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3565 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3563] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3565] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3562] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3564] exit with status 65280
+2017-01-10 15:49:20 pid:3566 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3567 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3568 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3569 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3566] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3568] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3567] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3569] exit with status 65280
+2017-01-10 15:49:20 pid:3570 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3571 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3572 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3573 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3570] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3571] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3572] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3573] exit with status 65280
+2017-01-10 15:49:20 pid:3574 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3576 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3575 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3577 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3575] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3576] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3574] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3577] exit with status 65280
+2017-01-10 15:49:20 pid:3578 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3579 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3580 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3581 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:20 pid:3475 worker[Worker:3578] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3579] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3580] exit with status 65280
+2017-01-10 15:49:20 pid:3475 worker[Worker:3581] exit with status 65280
+2017-01-10 15:49:21 pid:3582 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3475 worker[Worker:3582] exit with status 65280
+2017-01-10 15:49:21 pid:3583 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3584 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3475 worker[Worker:3583] exit with status 65280
+2017-01-10 15:49:21 pid:3585 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3475 worker[Worker:3585] exit with status 65280
+2017-01-10 15:49:21 pid:3475 worker[Worker:3584] exit with status 65280
+2017-01-10 15:49:21 pid:3586 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3587 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3475 worker[Worker:3586] exit with status 65280
+2017-01-10 15:49:21 pid:3589 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3588 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3475 worker[Worker:3587] exit with status 65280
+2017-01-10 15:49:21 pid:3475 worker[Worker:3589] exit with status 65280
+2017-01-10 15:49:21 pid:3475 worker[Worker:3588] exit with status 65280
+2017-01-10 15:49:21 pid:3590 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3591 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3475 worker[Worker:3590] exit with status 65280
+2017-01-10 15:49:21 pid:3592 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3593 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3475 worker[Worker:3591] exit with status 65280
+2017-01-10 15:49:21 pid:3475 worker[Worker:3592] exit with status 65280
+2017-01-10 15:49:21 pid:3475 worker[Worker:3593] exit with status 65280
+2017-01-10 15:49:21 pid:3594 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3475 worker[Worker:3594] exit with status 65280
+2017-01-10 15:49:21 pid:3595 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3596 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3475 worker[Worker:3595] exit with status 65280
+2017-01-10 15:49:21 pid:3597 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3475 worker[Worker:3597] exit with status 65280
+2017-01-10 15:49:21 pid:3475 worker[Worker:3596] exit with status 65280
+2017-01-10 15:49:21 pid:3598 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3599 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3600 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3601 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3475 worker[Worker:3598] exit with status 65280
+2017-01-10 15:49:21 pid:3475 worker[Worker:3599] exit with status 65280
+2017-01-10 15:49:21 pid:3475 worker[Worker:3600] exit with status 65280
+2017-01-10 15:49:21 pid:3475 worker[Worker:3601] exit with status 65280
+2017-01-10 15:49:21 pid:3602 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3603 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3475 worker[Worker:3603] exit with status 65280
+2017-01-10 15:49:21 pid:3604 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3605 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3475 worker[Worker:3602] exit with status 65280
+2017-01-10 15:49:21 pid:3475 worker[Worker:3605] exit with status 65280
+2017-01-10 15:49:21 pid:3475 worker[Worker:3604] exit with status 65280
+2017-01-10 15:49:21 pid:3606 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3607 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3608 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3609 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3475 worker[Worker:3606] exit with status 65280
+2017-01-10 15:49:21 pid:3475 worker[Worker:3608] exit with status 65280
+2017-01-10 15:49:21 pid:3475 worker[Worker:3607] exit with status 65280
+2017-01-10 15:49:21 pid:3475 worker[Worker:3609] exit with status 65280
+2017-01-10 15:49:21 pid:3610 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3611 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3612 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3613 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3475 worker[Worker:3610] exit with status 65280
+2017-01-10 15:49:21 pid:3475 worker[Worker:3612] exit with status 65280
+2017-01-10 15:49:21 pid:3475 worker[Worker:3611] exit with status 65280
+2017-01-10 15:49:21 pid:3475 worker[Worker:3613] exit with status 65280
+2017-01-10 15:49:21 pid:3614 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3616 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3615 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3617 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3475 worker[Worker:3617] exit with status 65280
+2017-01-10 15:49:21 pid:3475 worker[Worker:3616] exit with status 65280
+2017-01-10 15:49:21 pid:3475 worker[Worker:3614] exit with status 65280
+2017-01-10 15:49:21 pid:3475 worker[Worker:3615] exit with status 65280
+2017-01-10 15:49:21 pid:3618 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3620 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3619 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3475 worker[Worker:3619] exit with status 65280
+2017-01-10 15:49:21 pid:3621 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3475 Workerman[start.php] Stopping ...
+2017-01-10 15:49:21 pid:3475 worker[Worker:3620] exit with status 65280
+2017-01-10 15:49:21 pid:3475 worker[Worker:3621] exit with status 65280
+2017-01-10 15:49:21 pid:3475 worker[Worker:3618] exit with status 65280
+2017-01-10 15:49:21 pid:3622 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Watcher in /home/GatewayWorker/Watcher/Watcher.php on line 19
+2017-01-10 15:49:21 pid:3475 worker[Worker:3622] exit with status 65280
+2017-01-10 15:49:21 pid:3475 Workerman[start.php] has been stopped
+2017-01-10 15:49:40 pid:3623 Workerman[start.php] start in DEBUG mode
+2017-01-10 15:53:13 pid:3623 Workerman[start.php] Stopping ...
+2017-01-10 15:53:14 pid:3623 Workerman[start.php] has been stopped
+2017-01-10 15:53:14 pid:3642 Workerman[start.php] start in DEBUG mode
+2017-01-10 15:53:15 pid:3646 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3645 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3647 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3644 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3646] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3645] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3644] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3647] exit with status 65280
+2017-01-10 15:53:15 pid:3662 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3661 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3663 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3664 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3662] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3664] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3663] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3661] exit with status 65280
+2017-01-10 15:53:15 pid:3666 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3665 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3667 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3668 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3667] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3666] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3665] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3668] exit with status 65280
+2017-01-10 15:53:15 pid:3669 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3670 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3671 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3672 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3670] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3669] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3671] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3672] exit with status 65280
+2017-01-10 15:53:15 pid:3673 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3674 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3675 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3673] exit with status 65280
+2017-01-10 15:53:15 pid:3676 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3674] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3675] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3676] exit with status 65280
+2017-01-10 15:53:15 pid:3677 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3678 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3679 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3677] exit with status 65280
+2017-01-10 15:53:15 pid:3680 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3678] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3679] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3680] exit with status 65280
+2017-01-10 15:53:15 pid:3681 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3682 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3681] exit with status 65280
+2017-01-10 15:53:15 pid:3683 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3682] exit with status 65280
+2017-01-10 15:53:15 pid:3684 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3684] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3683] exit with status 65280
+2017-01-10 15:53:15 pid:3685 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3686 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3685] exit with status 65280
+2017-01-10 15:53:15 pid:3687 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3686] exit with status 65280
+2017-01-10 15:53:15 pid:3688 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3687] exit with status 65280
+2017-01-10 15:53:15 pid:3689 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3688] exit with status 65280
+2017-01-10 15:53:15 pid:3690 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3689] exit with status 65280
+2017-01-10 15:53:15 pid:3691 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3690] exit with status 65280
+2017-01-10 15:53:15 pid:3692 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3691] exit with status 65280
+2017-01-10 15:53:15 pid:3693 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3692] exit with status 65280
+2017-01-10 15:53:15 pid:3694 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3693] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3694] exit with status 65280
+2017-01-10 15:53:15 pid:3695 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3696 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3697 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3695] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3696] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3697] exit with status 65280
+2017-01-10 15:53:15 pid:3698 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3699 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3698] exit with status 65280
+2017-01-10 15:53:15 pid:3700 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3701 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3700] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3699] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3701] exit with status 65280
+2017-01-10 15:53:15 pid:3702 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3703 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3702] exit with status 65280
+2017-01-10 15:53:15 pid:3704 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3703] exit with status 65280
+2017-01-10 15:53:15 pid:3705 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3704] exit with status 65280
+2017-01-10 15:53:15 pid:3706 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3705] exit with status 65280
+2017-01-10 15:53:15 pid:3707 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3706] exit with status 65280
+2017-01-10 15:53:15 pid:3708 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3707] exit with status 65280
+2017-01-10 15:53:15 pid:3709 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3708] exit with status 65280
+2017-01-10 15:53:15 pid:3710 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3709] exit with status 65280
+2017-01-10 15:53:15 pid:3711 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3710] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3711] exit with status 65280
+2017-01-10 15:53:15 pid:3712 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3712] exit with status 65280
+2017-01-10 15:53:15 pid:3713 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3714 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3715 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3713] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3714] exit with status 65280
+2017-01-10 15:53:15 pid:3716 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3715] exit with status 65280
+2017-01-10 15:53:15 pid:3717 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3716] exit with status 65280
+2017-01-10 15:53:15 pid:3718 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3718] exit with status 65280
+2017-01-10 15:53:15 pid:3719 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3717] exit with status 65280
+2017-01-10 15:53:15 pid:3720 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3719] exit with status 65280
+2017-01-10 15:53:15 pid:3721 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3722 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3720] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3721] exit with status 65280
+2017-01-10 15:53:15 pid:3723 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3722] exit with status 65280
+2017-01-10 15:53:15 pid:3724 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3723] exit with status 65280
+2017-01-10 15:53:15 pid:3725 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3724] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3725] exit with status 65280
+2017-01-10 15:53:15 pid:3726 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3726] exit with status 65280
+2017-01-10 15:53:15 pid:3727 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3728 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3729 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3727] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3729] exit with status 65280
+2017-01-10 15:53:15 pid:3730 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3728] exit with status 65280
+2017-01-10 15:53:15 pid:3731 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3730] exit with status 65280
+2017-01-10 15:53:15 pid:3732 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3733 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3731] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3733] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3732] exit with status 65280
+2017-01-10 15:53:15 pid:3734 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3735 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3736 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3735] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3734] exit with status 65280
+2017-01-10 15:53:15 pid:3737 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3737] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3736] exit with status 65280
+2017-01-10 15:53:15 pid:3739 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3738 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3739] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3738] exit with status 65280
+2017-01-10 15:53:15 pid:3741 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3740 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:15 pid:3642 worker[Worker:3740] exit with status 65280
+2017-01-10 15:53:15 pid:3642 worker[Worker:3741] exit with status 65280
+2017-01-10 15:53:16 pid:3742 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3743 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3744 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3743] exit with status 65280
+2017-01-10 15:53:16 pid:3642 worker[Worker:3742] exit with status 65280
+2017-01-10 15:53:16 pid:3745 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3744] exit with status 65280
+2017-01-10 15:53:16 pid:3746 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3747 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3745] exit with status 65280
+2017-01-10 15:53:16 pid:3642 worker[Worker:3747] exit with status 65280
+2017-01-10 15:53:16 pid:3748 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3746] exit with status 65280
+2017-01-10 15:53:16 pid:3749 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3748] exit with status 65280
+2017-01-10 15:53:16 pid:3750 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3751 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3749] exit with status 65280
+2017-01-10 15:53:16 pid:3642 worker[Worker:3750] exit with status 65280
+2017-01-10 15:53:16 pid:3642 worker[Worker:3751] exit with status 65280
+2017-01-10 15:53:16 pid:3752 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3753 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3752] exit with status 65280
+2017-01-10 15:53:16 pid:3754 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3755 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3753] exit with status 65280
+2017-01-10 15:53:16 pid:3642 worker[Worker:3755] exit with status 65280
+2017-01-10 15:53:16 pid:3642 worker[Worker:3754] exit with status 65280
+2017-01-10 15:53:16 pid:3756 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3757 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3758 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3756] exit with status 65280
+2017-01-10 15:53:16 pid:3759 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3757] exit with status 65280
+2017-01-10 15:53:16 pid:3642 worker[Worker:3759] exit with status 65280
+2017-01-10 15:53:16 pid:3642 worker[Worker:3758] exit with status 65280
+2017-01-10 15:53:16 pid:3760 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3761 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3760] exit with status 65280
+2017-01-10 15:53:16 pid:3762 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3763 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3761] exit with status 65280
+2017-01-10 15:53:16 pid:3642 worker[Worker:3763] exit with status 65280
+2017-01-10 15:53:16 pid:3642 worker[Worker:3762] exit with status 65280
+2017-01-10 15:53:16 pid:3764 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3765 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3764] exit with status 65280
+2017-01-10 15:53:16 pid:3766 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3765] exit with status 65280
+2017-01-10 15:53:16 pid:3767 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3766] exit with status 65280
+2017-01-10 15:53:16 pid:3768 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3767] exit with status 65280
+2017-01-10 15:53:16 pid:3769 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3769] exit with status 65280
+2017-01-10 15:53:16 pid:3642 worker[Worker:3768] exit with status 65280
+2017-01-10 15:53:16 pid:3770 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3771 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3771] exit with status 65280
+2017-01-10 15:53:16 pid:3772 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3770] exit with status 65280
+2017-01-10 15:53:16 pid:3773 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3772] exit with status 65280
+2017-01-10 15:53:16 pid:3774 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3775 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3773] exit with status 65280
+2017-01-10 15:53:16 pid:3642 worker[Worker:3775] exit with status 65280
+2017-01-10 15:53:16 pid:3776 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3774] exit with status 65280
+2017-01-10 15:53:16 pid:3642 worker[Worker:3776] exit with status 65280
+2017-01-10 15:53:16 pid:3777 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3778 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3779 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3777] exit with status 65280
+2017-01-10 15:53:16 pid:3780 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3778] exit with status 65280
+2017-01-10 15:53:16 pid:3642 worker[Worker:3779] exit with status 65280
+2017-01-10 15:53:16 pid:3642 worker[Worker:3780] exit with status 65280
+2017-01-10 15:53:16 pid:3781 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3782 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3783 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3781] exit with status 65280
+2017-01-10 15:53:16 pid:3784 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3783] exit with status 65280
+2017-01-10 15:53:16 pid:3642 Workerman[start.php] Stopping ...
+2017-01-10 15:53:16 pid:3642 worker[Worker:3782] exit with status 65280
+2017-01-10 15:53:16 pid:3642 worker[Worker:3784] exit with status 65280
+2017-01-10 15:53:16 pid:3785 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3786 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class StatisticProtocol in /home/GatewayWorker/Watcher/StatisticClient.php on line 109
+2017-01-10 15:53:16 pid:3642 worker[Worker:3786] exit with status 65280
+2017-01-10 15:53:16 pid:3642 worker[Worker:3785] exit with status 65280
+2017-01-10 15:53:16 pid:3642 Workerman[start.php] has been stopped
+2017-01-10 15:53:57 pid:3787 Workerman[start.php] start in DEBUG mode
+2017-01-10 15:56:56 pid:3787 Workerman[start.php] Stopping ...
+2017-01-10 15:56:56 pid:3787 Workerman[start.php] has been stopped
+2017-01-10 15:56:57 pid:3809 Workerman[start.php] start in DEBUG mode
+2017-01-10 16:14:44 pid:3809 Workerman[start.php] Stopping ...
+2017-01-10 16:14:44 pid:3809 Workerman[start.php] has been stopped
+2017-01-10 16:14:46 pid:3902 Workerman[start.php] start in DEBUG mode
+2017-01-10 16:18:10 pid:3902 Workerman[start.php] Stopping ...
+2017-01-10 16:18:10 pid:3902 Workerman[start.php] has been stopped
+2017-01-10 16:18:12 pid:3927 Workerman[start.php] start in DAEMON mode
+2017-01-11 10:18:10 pid:5863 Workerman[start.php] stop 
+2017-01-11 10:18:10 pid:5863 Workerman[start.php] is stoping ...
+2017-01-11 10:18:10 pid:3930 Workerman[start.php] Stopping ...
+2017-01-11 10:18:10 pid:3930 Workerman[start.php] has been stopped
+2017-01-11 10:18:10 pid:5863 Workerman[start.php] stop success
+2017-01-11 10:19:03 pid:5867 Workerman[start.php] start in DAEMON mode
+2017-01-11 10:33:51 pid:5900 Workerman[start.php] stop 
+2017-01-11 10:33:51 pid:5900 Workerman[start.php] is stoping ...
+2017-01-11 10:33:51 pid:5870 Workerman[start.php] Stopping ...
+2017-01-11 10:33:51 pid:5870 Workerman[start.php] has been stopped
+2017-01-11 10:33:51 pid:5900 Workerman[start.php] stop success
+2017-01-11 10:33:54 pid:5902 Workerman[start.php] start in DAEMON mode
+2017-01-12 11:21:30 pid:10909 Workerman[start.php] status 
+2017-01-12 11:23:14 pid:10935 Workerman[start.php] stop 
+2017-01-12 11:23:14 pid:10935 Workerman[start.php] is stoping ...
+2017-01-12 11:23:14 pid:5905 Workerman[start.php] Stopping ...
+2017-01-12 11:23:14 pid:5905 Workerman[start.php] has been stopped
+2017-01-12 11:23:14 pid:10935 Workerman[start.php] stop success
+2017-01-12 11:23:18 pid:10937 Workerman[start.php] start in DAEMON mode
+2017-01-12 13:29:48 pid:11257 Workerman[start.php] status 
+2017-01-12 14:05:19 pid:11383 Workerman[start.php] start in DAEMON mode
+2017-01-12 14:05:19 pid:11383 Workerman[start.php] already running
+2017-01-12 14:16:57 pid:11460 Workerman[start.php] start in DAEMON mode
+2017-01-12 14:16:57 pid:11460 Workerman[start.php] already running
+2017-01-12 14:17:44 pid:11467 Workerman[start.php] start in DAEMON mode
+2017-01-12 14:17:44 pid:11467 Workerman[start.php] already running
+2017-01-12 14:22:32 pid:11476 Workerman[start.php] start in DAEMON mode
+2017-01-12 14:22:32 pid:11476 Workerman[start.php] already running
+2017-01-12 14:22:52 pid:11493 Workerman[start.php] start in DAEMON mode
+2017-01-12 14:22:52 pid:11493 Workerman[start.php] already running
+2017-01-12 14:23:39 pid:11510 Workerman[start.php] start in DAEMON mode
+2017-01-12 14:23:39 pid:11510 Workerman[start.php] already running
+2017-01-12 14:24:01 pid:11533 Workerman[start.php] start in DAEMON mode
+2017-01-12 14:24:01 pid:11533 Workerman[start.php] already running
+2017-01-12 15:10:58 pid:11685 Workerman[start.php] stop 
+2017-01-12 15:10:58 pid:11685 Workerman[start.php] is stoping ...
+2017-01-12 15:10:58 pid:10940 Workerman[start.php] Stopping ...
+2017-01-12 15:10:58 pid:10940 Workerman[start.php] has been stopped
+2017-01-12 15:10:58 pid:11685 Workerman[start.php] stop success
+2017-01-12 15:11:06 pid:11695 Workerman[start.php] start in DEBUG mode
+2017-01-12 15:12:30 pid:11695 Workerman[start.php] Stopping ...
+2017-01-12 15:12:30 pid:11695 Workerman[start.php] has been stopped
+2017-01-12 15:12:33 pid:11720 Workerman[start.php] start in DEBUG mode
+2017-01-12 15:12:49 pid:11720 Workerman[start.php] Stopping ...
+2017-01-12 15:12:49 pid:11720 Workerman[start.php] has been stopped
+2017-01-12 15:15:19 pid:11813 Workerman[start.php] stop 
+2017-01-12 15:15:19 pid:11813 Workerman[start.php] not run
+2017-01-12 15:15:23 pid:11815 Workerman[start.php] start in DEBUG mode
+2017-01-12 15:15:27 pid:11815 Workerman[start.php] Stopping ...
+2017-01-12 15:15:27 pid:11815 Workerman[start.php] has been stopped
+2017-01-12 15:16:53 pid:11861 Workerman[start.php] start in DEBUG mode
+2017-01-12 15:16:55 pid:11861 Workerman[start.php] Stopping ...
+2017-01-12 15:16:56 pid:11861 Workerman[start.php] has been stopped
+2017-01-12 15:17:00 pid:11885 Workerman[start.php] stop 
+2017-01-12 15:17:00 pid:11885 Workerman[start.php] not run
+2017-01-12 15:17:28 pid:11927 Workerman[start.php] start in DEBUG mode
+2017-01-12 15:17:35 pid:11927 Workerman[start.php] Stopping ...
+2017-01-12 15:17:35 pid:11927 Workerman[start.php] has been stopped
+2017-01-12 15:18:52 pid:11953 Workerman[start.php] start in DEBUG mode
+2017-01-12 15:18:54 pid:11953 Workerman[start.php] Stopping ...
+2017-01-12 15:18:54 pid:11953 Workerman[start.php] has been stopped
+2017-01-12 15:19:39 pid:11979 Workerman[start.php] start in DEBUG mode
+2017-01-12 15:19:43 pid:11979 Workerman[start.php] Stopping ...
+2017-01-12 15:19:43 pid:11979 Workerman[start.php] has been stopped
+2017-01-12 15:19:46 pid:12004 Workerman[start.php] start in DAEMON mode
+2017-01-12 15:19:51 pid:12031 Workerman[start.php] stop 
+2017-01-12 15:19:51 pid:12031 Workerman[start.php] is stoping ...
+2017-01-12 15:19:51 pid:12015 Workerman[start.php] Stopping ...
+2017-01-12 15:19:51 pid:12015 Workerman[start.php] has been stopped
+2017-01-12 15:19:51 pid:12031 Workerman[start.php] stop success
+2017-01-12 15:19:55 pid:12041 Workerman[start.php] start in DAEMON mode
+2017-01-12 15:20:05 pid:12068 Workerman[start.php] stop 
+2017-01-12 15:20:05 pid:12068 Workerman[start.php] is stoping ...
+2017-01-12 15:20:05 pid:12052 Workerman[start.php] Stopping ...
+2017-01-12 15:20:05 pid:12052 Workerman[start.php] has been stopped
+2017-01-12 15:20:05 pid:12068 Workerman[start.php] stop success
+2017-01-12 15:21:06 pid:12161 Workerman[start.php] start in DAEMON mode
+2017-01-12 16:44:36 pid:12505 Workerman[start.php] status 
+2017-01-13 09:11:57 pid:14457 Workerman[start.php] status 
+2017-01-14 15:17:11 pid:23835 Workerman[start.php] status 
+2017-01-16 21:33:44 pid:31612 Workerman[start.php] status 
+2017-01-18 17:11:20 pid:3593 Workerman[start.php] reload 
+2017-01-18 17:11:20 pid:12176 Workerman[start.php] reloading
+2017-01-18 17:11:20 pid:3593 Workerman[start.php] reload
+2017-01-18 18:17:23 pid:3741 Workerman[start.php] reload 
+2017-01-18 18:17:23 pid:12176 Workerman[start.php] reloading
+2017-01-18 18:17:23 pid:3741 Workerman[start.php] reload
+2017-02-07 00:34:10 pid:12183 exception 'Exception' with message 'gateway inner pack err cmd=255' in /home/GatewayWorker/GatewayWorker/Gateway.php:765
+Stack trace:
+#0 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#1 /home/GatewayWorker/Workerman/Connection/TcpConnection.php(430): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #507)
+#3 /home/GatewayWorker/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#4 /home/GatewayWorker/Workerman/Worker.php(1471): Workerman\Events\Select->loop()
+#5 /home/GatewayWorker/GatewayWorker/Gateway.php(264): Workerman\Worker->run()
+#6 /home/GatewayWorker/Workerman/Worker.php(899): GatewayWorker\Gateway->run()
+#7 /home/GatewayWorker/Workerman/Worker.php(865): Workerman\Worker::forkOneWorker(Object(GatewayWorker\Gateway))
+#8 /home/GatewayWorker/Workerman/Worker.php(421): Workerman\Worker::forkWorkers()
+#9 /home/GatewayWorker/start.php(32): Workerman\Worker::runAll()
+#10 {main}
+2017-02-07 00:34:10 pid:12183 WORKER EXIT UNEXPECTED 
+2017-02-07 00:34:10 pid:12176 worker[GatewayWS:12183] exit with status 64000
+2017-02-07 17:03:33 pid:28970 Workerman[start.php] reload 
+2017-02-07 17:03:33 pid:12176 Workerman[start.php] reloading
+2017-02-07 17:03:33 pid:28970 Workerman[start.php] reload
+2017-02-23 10:30:36 pid:15550 Workerman[start.php] start in DEBUG mode
+2017-02-23 10:30:36 pid:15550 Workerman[start.php] already running
+2017-02-23 10:30:42 pid:15564 Workerman[start.php] status 
+2017-02-23 10:30:48 pid:15578 Workerman[start.php] stop 
+2017-02-23 10:30:48 pid:15578 Workerman[start.php] is stoping ...
+2017-02-23 10:30:48 pid:12176 Workerman[start.php] Stopping ...
+2017-02-23 10:30:48 pid:12176 Workerman[start.php] has been stopped
+2017-02-23 10:30:48 pid:15578 Workerman[start.php] stop success
+2017-02-23 10:30:51 pid:15592 Workerman[start.php] start in DEBUG mode
+2017-02-23 10:35:34 pid:15592 Workerman[start.php] Stopping ...
+2017-02-23 10:35:35 pid:15592 Workerman[start.php] has been stopped
+2017-02-23 10:35:36 pid:15698 Workerman[start.php] start in DEBUG mode
+2017-02-23 10:36:10 pid:15718 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Plugins\AppConfig in /home/GatewayWorker/Plugins/AppConfig.php on line 6
+2017-02-23 10:36:10 pid:15698 worker[GatewayWS:15718] exit with status 65280
+2017-02-23 10:38:39 pid:15698 Workerman[start.php] Stopping ...
+2017-02-23 10:38:39 pid:15698 Workerman[start.php] has been stopped
+2017-02-23 10:38:40 pid:15727 Workerman[start.php] start in DEBUG mode
+2017-02-23 10:38:44 pid:15747 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:44 pid:15727 worker[GatewayWS:15747] exit with status 65280
+2017-02-23 10:38:44 pid:15753 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:44 pid:15727 worker[GatewayWS:15753] exit with status 65280
+2017-02-23 10:38:44 pid:15754 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:44 pid:15727 worker[GatewayWS:15754] exit with status 65280
+2017-02-23 10:38:44 pid:15755 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:44 pid:15727 worker[GatewayWS:15755] exit with status 65280
+2017-02-23 10:38:44 pid:15756 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:44 pid:15727 worker[GatewayWS:15756] exit with status 65280
+2017-02-23 10:38:44 pid:15757 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:44 pid:15727 worker[GatewayWS:15757] exit with status 65280
+2017-02-23 10:38:44 pid:15758 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:44 pid:15727 worker[GatewayWS:15758] exit with status 65280
+2017-02-23 10:38:45 pid:15759 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:45 pid:15727 worker[GatewayWS:15759] exit with status 65280
+2017-02-23 10:38:45 pid:15760 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:45 pid:15727 worker[GatewayWS:15760] exit with status 65280
+2017-02-23 10:38:45 pid:15761 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:45 pid:15727 worker[GatewayWS:15761] exit with status 65280
+2017-02-23 10:38:45 pid:15762 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:45 pid:15727 worker[GatewayWS:15762] exit with status 65280
+2017-02-23 10:38:45 pid:15763 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:45 pid:15727 worker[GatewayWS:15763] exit with status 65280
+2017-02-23 10:38:45 pid:15764 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:45 pid:15727 worker[GatewayWS:15764] exit with status 65280
+2017-02-23 10:38:45 pid:15765 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:45 pid:15727 worker[GatewayWS:15765] exit with status 65280
+2017-02-23 10:38:45 pid:15766 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:45 pid:15727 worker[GatewayWS:15766] exit with status 65280
+2017-02-23 10:38:46 pid:15767 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:46 pid:15727 worker[GatewayWS:15767] exit with status 65280
+2017-02-23 10:38:46 pid:15768 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:46 pid:15727 worker[GatewayWS:15768] exit with status 65280
+2017-02-23 10:38:46 pid:15769 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:46 pid:15727 worker[GatewayWS:15769] exit with status 65280
+2017-02-23 10:38:46 pid:15770 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:46 pid:15727 worker[GatewayWS:15770] exit with status 65280
+2017-02-23 10:38:46 pid:15771 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:46 pid:15727 worker[GatewayWS:15771] exit with status 65280
+2017-02-23 10:38:46 pid:15772 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:46 pid:15727 worker[GatewayWS:15772] exit with status 65280
+2017-02-23 10:38:46 pid:15773 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:46 pid:15727 worker[GatewayWS:15773] exit with status 65280
+2017-02-23 10:38:46 pid:15774 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:46 pid:15727 worker[GatewayWS:15774] exit with status 65280
+2017-02-23 10:38:46 pid:15775 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:46 pid:15727 worker[GatewayWS:15775] exit with status 65280
+2017-02-23 10:38:47 pid:15776 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:47 pid:15727 worker[GatewayWS:15776] exit with status 65280
+2017-02-23 10:38:47 pid:15777 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:47 pid:15727 worker[GatewayWS:15777] exit with status 65280
+2017-02-23 10:38:47 pid:15778 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:47 pid:15727 worker[GatewayWS:15778] exit with status 65280
+2017-02-23 10:38:47 pid:15779 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:47 pid:15727 worker[GatewayWS:15779] exit with status 65280
+2017-02-23 10:38:47 pid:15780 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:47 pid:15727 worker[GatewayWS:15780] exit with status 65280
+2017-02-23 10:38:47 pid:15781 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:38:47 pid:15727 Workerman[start.php] Stopping ...
+2017-02-23 10:38:47 pid:15727 worker[GatewayWS:15781] exit with status 65280
+2017-02-23 10:38:47 pid:15727 Workerman[start.php] has been stopped
+2017-02-23 10:40:01 pid:15800 Workerman[start.php] start in DEBUG mode
+2017-02-23 10:40:23 pid:15820 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Plugins\AppConfig in /home/GatewayWorker/Plugins/AppConfig.php on line 6
+2017-02-23 10:40:23 pid:15800 worker[GatewayWS:15820] exit with status 65280
+2017-02-23 10:43:03 pid:15826 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Plugins\AppConfig in /home/GatewayWorker/Plugins/AppConfig.php on line 6
+2017-02-23 10:43:03 pid:15800 worker[GatewayWS:15826] exit with status 65280
+2017-02-23 10:43:03 pid:15828 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Plugins\AppConfig in /home/GatewayWorker/Plugins/AppConfig.php on line 6
+2017-02-23 10:43:03 pid:15800 worker[GatewayWS:15828] exit with status 65280
+2017-02-23 10:43:03 pid:15829 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Plugins\AppConfig in /home/GatewayWorker/Plugins/AppConfig.php on line 6
+2017-02-23 10:43:03 pid:15800 worker[GatewayWS:15829] exit with status 65280
+2017-02-23 10:43:03 pid:15830 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Plugins\AppConfig in /home/GatewayWorker/Plugins/AppConfig.php on line 6
+2017-02-23 10:43:03 pid:15800 worker[GatewayWS:15830] exit with status 65280
+2017-02-23 10:43:03 pid:15831 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Plugins\AppConfig in /home/GatewayWorker/Plugins/AppConfig.php on line 6
+2017-02-23 10:43:03 pid:15800 worker[GatewayWS:15831] exit with status 65280
+2017-02-23 10:45:02 pid:15800 Workerman[start.php] Stopping ...
+2017-02-23 10:45:02 pid:15800 Workerman[start.php] has been stopped
+2017-02-23 10:45:03 pid:15839 Workerman[start.php] start in DEBUG mode
+2017-02-23 10:45:07 pid:15859 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:07 pid:15839 worker[GatewayWS:15859] exit with status 65280
+2017-02-23 10:45:07 pid:15865 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:07 pid:15839 worker[GatewayWS:15865] exit with status 65280
+2017-02-23 10:45:07 pid:15866 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:07 pid:15839 worker[GatewayWS:15866] exit with status 65280
+2017-02-23 10:45:08 pid:15867 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:08 pid:15839 worker[GatewayWS:15867] exit with status 65280
+2017-02-23 10:45:08 pid:15868 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:08 pid:15839 worker[GatewayWS:15868] exit with status 65280
+2017-02-23 10:45:08 pid:15869 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:08 pid:15839 worker[GatewayWS:15869] exit with status 65280
+2017-02-23 10:45:08 pid:15870 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:08 pid:15839 worker[GatewayWS:15870] exit with status 65280
+2017-02-23 10:45:08 pid:15871 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:08 pid:15839 worker[GatewayWS:15871] exit with status 65280
+2017-02-23 10:45:08 pid:15872 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:08 pid:15839 worker[GatewayWS:15872] exit with status 65280
+2017-02-23 10:45:09 pid:15873 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:09 pid:15839 worker[GatewayWS:15873] exit with status 65280
+2017-02-23 10:45:09 pid:15874 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:09 pid:15839 worker[GatewayWS:15874] exit with status 65280
+2017-02-23 10:45:09 pid:15875 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:09 pid:15839 worker[GatewayWS:15875] exit with status 65280
+2017-02-23 10:45:09 pid:15876 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:09 pid:15839 worker[GatewayWS:15876] exit with status 65280
+2017-02-23 10:45:09 pid:15877 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:09 pid:15839 worker[GatewayWS:15877] exit with status 65280
+2017-02-23 10:45:09 pid:15878 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:09 pid:15839 worker[GatewayWS:15878] exit with status 65280
+2017-02-23 10:45:09 pid:15879 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:09 pid:15839 worker[GatewayWS:15879] exit with status 65280
+2017-02-23 10:45:09 pid:15880 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:09 pid:15839 worker[GatewayWS:15880] exit with status 65280
+2017-02-23 10:45:09 pid:15881 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:09 pid:15839 worker[GatewayWS:15881] exit with status 65280
+2017-02-23 10:45:09 pid:15882 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:09 pid:15839 worker[GatewayWS:15882] exit with status 65280
+2017-02-23 10:45:10 pid:15883 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:10 pid:15839 worker[GatewayWS:15883] exit with status 65280
+2017-02-23 10:45:10 pid:15884 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:10 pid:15839 worker[GatewayWS:15884] exit with status 65280
+2017-02-23 10:45:10 pid:15885 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:10 pid:15839 worker[GatewayWS:15885] exit with status 65280
+2017-02-23 10:45:10 pid:15886 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:10 pid:15839 worker[GatewayWS:15886] exit with status 65280
+2017-02-23 10:45:10 pid:15887 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:10 pid:15839 worker[GatewayWS:15887] exit with status 65280
+2017-02-23 10:45:10 pid:15888 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:10 pid:15839 worker[GatewayWS:15888] exit with status 65280
+2017-02-23 10:45:10 pid:15889 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:10 pid:15839 worker[GatewayWS:15889] exit with status 65280
+2017-02-23 10:45:10 pid:15890 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:10 pid:15839 worker[GatewayWS:15890] exit with status 65280
+2017-02-23 10:45:10 pid:15891 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 64
+2017-02-23 10:45:10 pid:15839 worker[GatewayWS:15891] exit with status 65280
+2017-02-23 10:45:11 pid:15839 Workerman[start.php] Stopping ...
+2017-02-23 10:45:11 pid:15839 Workerman[start.php] has been stopped
+2017-02-23 10:47:06 pid:15893 Workerman[start.php] start in DEBUG mode
+2017-02-23 10:47:06 pid:15913 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:47:06 pid:15893 worker[GatewayWS:15913] exit with status 65280
+2017-02-23 10:47:06 pid:15919 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:47:06 pid:15893 worker[GatewayWS:15919] exit with status 65280
+2017-02-23 10:47:06 pid:15920 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:47:06 pid:15893 worker[GatewayWS:15920] exit with status 65280
+2017-02-23 10:47:07 pid:15921 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:47:07 pid:15893 worker[GatewayWS:15921] exit with status 65280
+2017-02-23 10:47:07 pid:15922 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:47:07 pid:15893 worker[GatewayWS:15922] exit with status 65280
+2017-02-23 10:47:07 pid:15923 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:47:07 pid:15893 worker[GatewayWS:15923] exit with status 65280
+2017-02-23 10:47:07 pid:15924 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:47:07 pid:15893 worker[GatewayWS:15924] exit with status 65280
+2017-02-23 10:47:07 pid:15925 WORKER EXIT UNEXPECTED E_ERROR Class 'AppConfig' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:47:07 pid:15893 worker[GatewayWS:15925] exit with status 65280
+2017-02-23 10:47:08 pid:15893 Workerman[start.php] Stopping ...
+2017-02-23 10:47:08 pid:15893 Workerman[start.php] has been stopped
+2017-02-23 10:48:08 pid:15928 Workerman[start.php] start in DEBUG mode
+2017-02-23 10:48:21 pid:15948 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class AppConfig in /home/GatewayWorker/Plugins/AppConfig.php on line 6
+2017-02-23 10:48:21 pid:15928 worker[GatewayWS:15948] exit with status 65280
+2017-02-23 10:51:07 pid:15928 Workerman[start.php] Stopping ...
+2017-02-23 10:51:07 pid:15928 Workerman[start.php] has been stopped
+2017-02-23 10:51:13 pid:15980 Workerman[start.php] start in DEBUG mode
+2017-02-23 10:51:18 pid:16000 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:51:18 pid:15980 worker[GatewayWS:16000] exit with status 65280
+2017-02-23 10:51:18 pid:16006 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:51:18 pid:15980 worker[GatewayWS:16006] exit with status 65280
+2017-02-23 10:51:18 pid:16007 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:51:18 pid:15980 worker[GatewayWS:16007] exit with status 65280
+2017-02-23 10:51:18 pid:16008 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:51:18 pid:15980 worker[GatewayWS:16008] exit with status 65280
+2017-02-23 10:51:18 pid:16009 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:51:18 pid:15980 worker[GatewayWS:16009] exit with status 65280
+2017-02-23 10:51:18 pid:16010 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:51:18 pid:15980 worker[GatewayWS:16010] exit with status 65280
+2017-02-23 10:51:18 pid:16011 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:51:18 pid:15980 worker[GatewayWS:16011] exit with status 65280
+2017-02-23 10:51:19 pid:16012 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:51:19 pid:15980 worker[GatewayWS:16012] exit with status 65280
+2017-02-23 10:51:19 pid:16013 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:51:19 pid:15980 worker[GatewayWS:16013] exit with status 65280
+2017-02-23 10:51:19 pid:16014 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:51:19 pid:15980 worker[GatewayWS:16014] exit with status 65280
+2017-02-23 10:51:19 pid:16015 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:51:19 pid:15980 worker[GatewayWS:16015] exit with status 65280
+2017-02-23 10:51:19 pid:16016 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:51:19 pid:15980 worker[GatewayWS:16016] exit with status 65280
+2017-02-23 10:51:19 pid:16017 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:51:19 pid:15980 worker[GatewayWS:16017] exit with status 65280
+2017-02-23 10:51:19 pid:16018 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:51:19 pid:15980 worker[GatewayWS:16018] exit with status 65280
+2017-02-23 10:51:20 pid:16019 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:51:20 pid:15980 worker[GatewayWS:16019] exit with status 65280
+2017-02-23 10:51:20 pid:16020 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:51:20 pid:15980 worker[GatewayWS:16020] exit with status 65280
+2017-02-23 10:51:20 pid:16021 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:51:20 pid:15980 worker[GatewayWS:16021] exit with status 65280
+2017-02-23 10:51:20 pid:16022 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:51:20 pid:15980 worker[GatewayWS:16022] exit with status 65280
+2017-02-23 10:51:20 pid:16023 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:51:20 pid:15980 worker[GatewayWS:16023] exit with status 65280
+2017-02-23 10:51:20 pid:16024 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:51:20 pid:15980 worker[GatewayWS:16024] exit with status 65280
+2017-02-23 10:51:20 pid:16025 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:51:20 pid:15980 worker[GatewayWS:16025] exit with status 65280
+2017-02-23 10:51:20 pid:16026 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:51:20 pid:15980 worker[GatewayWS:16026] exit with status 65280
+2017-02-23 10:51:20 pid:15980 Workerman[start.php] Stopping ...
+2017-02-23 10:51:20 pid:15980 Workerman[start.php] has been stopped
+2017-02-23 10:56:09 pid:16084 Workerman[start.php] start in DEBUG mode
+2017-02-23 10:56:09 pid:16104 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:56:09 pid:16084 worker[GatewayWS:16104] exit with status 65280
+2017-02-23 10:56:09 pid:16110 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:56:09 pid:16084 worker[GatewayWS:16110] exit with status 65280
+2017-02-23 10:56:10 pid:16111 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:56:10 pid:16084 worker[GatewayWS:16111] exit with status 65280
+2017-02-23 10:56:10 pid:16112 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:56:10 pid:16084 worker[GatewayWS:16112] exit with status 65280
+2017-02-23 10:56:10 pid:16113 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:56:10 pid:16084 worker[GatewayWS:16113] exit with status 65280
+2017-02-23 10:56:10 pid:16114 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:56:10 pid:16084 worker[GatewayWS:16114] exit with status 65280
+2017-02-23 10:56:10 pid:16115 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:56:10 pid:16084 worker[GatewayWS:16115] exit with status 65280
+2017-02-23 10:56:10 pid:16116 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:56:10 pid:16084 worker[GatewayWS:16116] exit with status 65280
+2017-02-23 10:56:10 pid:16117 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:56:10 pid:16084 worker[GatewayWS:16117] exit with status 65280
+2017-02-23 10:56:10 pid:16118 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:56:10 pid:16084 worker[GatewayWS:16118] exit with status 65280
+2017-02-23 10:56:10 pid:16119 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:56:10 pid:16084 worker[GatewayWS:16119] exit with status 65280
+2017-02-23 10:56:10 pid:16120 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:56:10 pid:16084 worker[GatewayWS:16120] exit with status 65280
+2017-02-23 10:56:11 pid:16121 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:56:11 pid:16084 worker[GatewayWS:16121] exit with status 65280
+2017-02-23 10:56:11 pid:16122 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:56:11 pid:16084 worker[GatewayWS:16122] exit with status 65280
+2017-02-23 10:56:11 pid:16123 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 63
+2017-02-23 10:56:11 pid:16084 worker[GatewayWS:16123] exit with status 65280
+2017-02-23 10:56:11 pid:16084 Workerman[start.php] Stopping ...
+2017-02-23 10:56:11 pid:16084 Workerman[start.php] has been stopped
+2017-02-23 10:58:58 pid:16125 Workerman[start.php] start in DEBUG mode
+2017-02-23 10:58:58 pid:16145 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 10:58:58 pid:16125 worker[GatewayWS:16145] exit with status 65280
+2017-02-23 10:58:58 pid:16151 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 10:58:58 pid:16125 worker[GatewayWS:16151] exit with status 65280
+2017-02-23 10:58:58 pid:16152 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 10:58:58 pid:16125 worker[GatewayWS:16152] exit with status 65280
+2017-02-23 10:58:59 pid:16153 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 10:58:59 pid:16125 worker[GatewayWS:16153] exit with status 65280
+2017-02-23 10:58:59 pid:16154 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 10:58:59 pid:16125 worker[GatewayWS:16154] exit with status 65280
+2017-02-23 10:58:59 pid:16155 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 10:58:59 pid:16125 worker[GatewayWS:16155] exit with status 65280
+2017-02-23 10:58:59 pid:16156 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 10:58:59 pid:16125 worker[GatewayWS:16156] exit with status 65280
+2017-02-23 10:58:59 pid:16157 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 10:58:59 pid:16125 worker[GatewayWS:16157] exit with status 65280
+2017-02-23 10:58:59 pid:16158 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 10:58:59 pid:16125 worker[GatewayWS:16158] exit with status 65280
+2017-02-23 10:58:59 pid:16159 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 10:58:59 pid:16125 worker[GatewayWS:16159] exit with status 65280
+2017-02-23 10:58:59 pid:16160 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 10:58:59 pid:16125 worker[GatewayWS:16160] exit with status 65280
+2017-02-23 10:59:00 pid:16161 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 10:59:00 pid:16125 worker[GatewayWS:16161] exit with status 65280
+2017-02-23 10:59:00 pid:16162 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 10:59:00 pid:16125 worker[GatewayWS:16162] exit with status 65280
+2017-02-23 10:59:00 pid:16125 Workerman[start.php] Stopping ...
+2017-02-23 10:59:00 pid:16125 Workerman[start.php] has been stopped
+2017-02-23 11:01:45 pid:16166 Workerman[start.php] start in DEBUG mode
+2017-02-23 11:01:45 pid:16186 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 11:01:45 pid:16166 worker[GatewayWS:16186] exit with status 65280
+2017-02-23 11:01:45 pid:16192 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 11:01:45 pid:16166 worker[GatewayWS:16192] exit with status 65280
+2017-02-23 11:01:45 pid:16193 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 11:01:45 pid:16166 worker[GatewayWS:16193] exit with status 65280
+2017-02-23 11:01:46 pid:16194 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 11:01:46 pid:16166 worker[GatewayWS:16194] exit with status 65280
+2017-02-23 11:01:46 pid:16195 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 11:01:46 pid:16166 worker[GatewayWS:16195] exit with status 65280
+2017-02-23 11:01:46 pid:16196 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 11:01:46 pid:16166 worker[GatewayWS:16196] exit with status 65280
+2017-02-23 11:01:46 pid:16197 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 11:01:46 pid:16166 worker[GatewayWS:16197] exit with status 65280
+2017-02-23 11:01:46 pid:16198 WORKER EXIT UNEXPECTED E_ERROR Class 'Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 11:01:46 pid:16166 worker[GatewayWS:16198] exit with status 65280
+2017-02-23 11:01:46 pid:16166 Workerman[start.php] Stopping ...
+2017-02-23 11:01:46 pid:16166 Workerman[start.php] has been stopped
+2017-02-23 11:03:17 pid:16200 Workerman[start.php] start in DEBUG mode
+2017-02-23 11:03:17 pid:16220 WORKER EXIT UNEXPECTED E_ERROR Class 'Plugin\Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 11:03:17 pid:16200 worker[GatewayWS:16220] exit with status 65280
+2017-02-23 11:03:17 pid:16226 WORKER EXIT UNEXPECTED E_ERROR Class 'Plugin\Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 11:03:17 pid:16200 worker[GatewayWS:16226] exit with status 65280
+2017-02-23 11:03:17 pid:16227 WORKER EXIT UNEXPECTED E_ERROR Class 'Plugin\Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 11:03:17 pid:16200 worker[GatewayWS:16227] exit with status 65280
+2017-02-23 11:03:17 pid:16228 WORKER EXIT UNEXPECTED E_ERROR Class 'Plugin\Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 11:03:17 pid:16200 worker[GatewayWS:16228] exit with status 65280
+2017-02-23 11:03:17 pid:16229 WORKER EXIT UNEXPECTED E_ERROR Class 'Plugin\Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 11:03:17 pid:16200 worker[GatewayWS:16229] exit with status 65280
+2017-02-23 11:03:18 pid:16230 WORKER EXIT UNEXPECTED E_ERROR Class 'Plugin\Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 11:03:18 pid:16200 worker[GatewayWS:16230] exit with status 65280
+2017-02-23 11:03:18 pid:16231 WORKER EXIT UNEXPECTED E_ERROR Class 'Plugin\Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 11:03:18 pid:16200 worker[GatewayWS:16231] exit with status 65280
+2017-02-23 11:03:18 pid:16232 WORKER EXIT UNEXPECTED E_ERROR Class 'Plugin\Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 11:03:18 pid:16200 worker[GatewayWS:16232] exit with status 65280
+2017-02-23 11:03:18 pid:16233 WORKER EXIT UNEXPECTED E_ERROR Class 'Plugin\Domains' not found in /home/GatewayWorker/Applications/YourApp/start_gateway_ws.php on line 65
+2017-02-23 11:03:18 pid:16200 Workerman[start.php] Stopping ...
+2017-02-23 11:03:18 pid:16200 worker[GatewayWS:16233] exit with status 65280
+2017-02-23 11:03:18 pid:16200 Workerman[start.php] has been stopped
+2017-02-23 11:04:54 pid:16235 Workerman[start.php] start in DEBUG mode
+2017-02-23 11:06:28 pid:16235 Workerman[start.php] Stopping ...
+2017-02-23 11:06:28 pid:16235 Workerman[start.php] has been stopped
+2017-02-23 11:06:29 pid:16265 Workerman[start.php] start in DEBUG mode
+2017-02-23 11:06:50 pid:16285 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare class Plugins\Domains in /home/GatewayWorker/Plugins/Domains.php on line 6
+2017-02-23 11:06:50 pid:16265 worker[GatewayWS:16285] exit with status 65280
+2017-02-23 11:12:15 pid:16265 Workerman[start.php] Stopping ...
+2017-02-23 11:12:15 pid:16265 Workerman[start.php] has been stopped
+2017-02-23 11:12:17 pid:16313 Workerman[start.php] start in DEBUG mode
+2017-02-23 11:17:13 pid:16313 Workerman[start.php] Stopping ...
+2017-02-23 11:17:13 pid:16313 Workerman[start.php] has been stopped
+2017-02-23 11:17:14 pid:16349 Workerman[start.php] start in DEBUG mode
+2017-02-23 11:19:08 pid:16349 Workerman[start.php] Stopping ...
+2017-02-23 11:19:08 pid:16349 Workerman[start.php] has been stopped
+2017-02-23 11:19:08 pid:16402 Workerman[start.php] start in DEBUG mode
+2017-02-23 11:19:53 pid:16402 Workerman[start.php] Stopping ...
+2017-02-23 11:19:53 pid:16402 Workerman[start.php] has been stopped
+2017-02-23 11:19:53 pid:16428 Workerman[start.php] start in DEBUG mode
+2017-02-23 11:30:37 pid:16428 Workerman[start.php] Stopping ...
+2017-02-23 11:30:37 pid:16428 Workerman[start.php] has been stopped
+2017-02-23 11:30:38 pid:16471 Workerman[start.php] start in DEBUG mode
+2017-02-23 11:30:41 pid:16491 WORKER EXIT UNEXPECTED 
+2017-02-23 11:30:41 pid:16497 WORKER EXIT UNEXPECTED 
+2017-02-23 11:30:41 pid:16498 WORKER EXIT UNEXPECTED 
+2017-02-23 11:30:41 pid:16499 WORKER EXIT UNEXPECTED 
+2017-02-23 11:30:41 pid:16500 WORKER EXIT UNEXPECTED 
+2017-02-23 11:30:41 pid:16501 WORKER EXIT UNEXPECTED 
+2017-02-23 11:30:41 pid:16502 WORKER EXIT UNEXPECTED 
+2017-02-23 11:30:42 pid:16503 WORKER EXIT UNEXPECTED 
+2017-02-23 11:30:42 pid:16504 WORKER EXIT UNEXPECTED 
+2017-02-23 11:30:42 pid:16505 WORKER EXIT UNEXPECTED 
+2017-02-23 11:30:43 pid:16506 WORKER EXIT UNEXPECTED 
+2017-02-23 11:30:43 pid:16507 WORKER EXIT UNEXPECTED 
+2017-02-23 11:30:43 pid:16471 Workerman[start.php] Stopping ...
+2017-02-23 11:30:43 pid:16471 Workerman[start.php] has been stopped
+2017-02-23 11:32:00 pid:16512 Workerman[start.php] start in DEBUG mode
+2017-02-23 11:32:00 pid:16532 WORKER EXIT UNEXPECTED 
+2017-02-23 11:32:00 pid:16538 WORKER EXIT UNEXPECTED 
+2017-02-23 11:32:00 pid:16539 WORKER EXIT UNEXPECTED 
+2017-02-23 11:32:01 pid:16540 WORKER EXIT UNEXPECTED 
+2017-02-23 11:32:01 pid:16541 WORKER EXIT UNEXPECTED 
+2017-02-23 11:32:01 pid:16542 WORKER EXIT UNEXPECTED 
+2017-02-23 11:32:01 pid:16543 WORKER EXIT UNEXPECTED 
+2017-02-23 11:32:01 pid:16544 WORKER EXIT UNEXPECTED 
+2017-02-23 11:32:01 pid:16545 WORKER EXIT UNEXPECTED 
+2017-02-23 11:32:01 pid:16546 WORKER EXIT UNEXPECTED 
+2017-02-23 11:32:01 pid:16547 WORKER EXIT UNEXPECTED 
+2017-02-23 11:32:01 pid:16548 WORKER EXIT UNEXPECTED 
+2017-02-23 11:32:01 pid:16512 Workerman[start.php] Stopping ...
+2017-02-23 11:32:01 pid:16549 WORKER EXIT UNEXPECTED 
+2017-02-23 11:32:01 pid:16512 Workerman[start.php] has been stopped
+2017-02-23 11:32:19 pid:16550 Workerman[start.php] start in DEBUG mode
+2017-02-23 13:13:58 pid:16550 Workerman[start.php] Stopping ...
+2017-02-23 13:13:58 pid:16550 Workerman[start.php] has been stopped
+2017-02-23 13:14:00 pid:16764 Workerman[start.php] start in DAEMON mode
+2017-03-22 17:09:34 pid:3644 Workerman[start.php] reload 
+2017-03-22 17:09:34 pid:16779 Workerman[start.php] reloading
+2017-03-22 17:09:34 pid:3644 Workerman[start.php] reload
+2017-04-03 23:14:45 pid:16786 exception 'Exception' with message 'gateway inner pack err cmd=106' in /home/GatewayWorker/GatewayWorker/Gateway.php:765
+Stack trace:
+#0 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#1 /home/GatewayWorker/Workerman/Connection/TcpConnection.php(430): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #836)
+#3 /home/GatewayWorker/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#4 /home/GatewayWorker/Workerman/Worker.php(1471): Workerman\Events\Select->loop()
+#5 /home/GatewayWorker/GatewayWorker/Gateway.php(264): Workerman\Worker->run()
+#6 /home/GatewayWorker/Workerman/Worker.php(899): GatewayWorker\Gateway->run()
+#7 /home/GatewayWorker/Workerman/Worker.php(865): Workerman\Worker::forkOneWorker(Object(GatewayWorker\Gateway))
+#8 /home/GatewayWorker/Workerman/Worker.php(421): Workerman\Worker::forkWorkers()
+#9 /home/GatewayWorker/start.php(32): Workerman\Worker::runAll()
+#10 {main}
+2017-04-03 23:14:45 pid:16786 WORKER EXIT UNEXPECTED 
+2017-04-03 23:14:45 pid:16779 worker[GatewayWS:16786] exit with status 64000
+2017-04-03 23:14:48 pid:3864 exception 'Exception' with message 'gateway inner pack err cmd=255' in /home/GatewayWorker/GatewayWorker/Gateway.php:765
+Stack trace:
+#0 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#1 /home/GatewayWorker/Workerman/Connection/TcpConnection.php(430): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #63)
+#3 /home/GatewayWorker/Workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#4 /home/GatewayWorker/Workerman/Worker.php(1471): Workerman\Events\Select->loop()
+#5 /home/GatewayWorker/GatewayWorker/Gateway.php(264): Workerman\Worker->run()
+#6 /home/GatewayWorker/Workerman/Worker.php(899): GatewayWorker\Gateway->run()
+#7 /home/GatewayWorker/Workerman/Worker.php(865): Workerman\Worker::forkOneWorker(Object(GatewayWorker\Gateway))
+#8 /home/GatewayWorker/Workerman/Worker.php(1017): Workerman\Worker::forkWorkers()
+#9 /home/GatewayWorker/Workerman/Worker.php(424): Workerman\Worker::monitorWorkers()
+#10 /home/GatewayWorker/start.php(32): Workerman\Worker::runAll()
+#11 {main}
+2017-04-03 23:14:48 pid:3864 WORKER EXIT UNEXPECTED 
+2017-04-03 23:14:48 pid:16779 worker[GatewayWS:3864] exit with status 64000

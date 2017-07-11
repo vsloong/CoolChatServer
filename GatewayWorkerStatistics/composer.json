@@ -1,0 +1,15 @@
+{
+    "name"  : "workerman/statistics",
+    "type"  : "project",
+    "homepage": "http://www.workerman.net",
+    "license" : "MIT",
+    "require": {
+        "workerman/workerman" : ">=3.3.0"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
