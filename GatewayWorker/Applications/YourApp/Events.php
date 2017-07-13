@@ -73,8 +73,9 @@ class Events
                     Gateway::sendToUid($req_data['toId'], json_encode($req_data));
                     break;
                 case 'group':
-                    //发送给群组即可，自己也会收到
-                    //查询数据库，找到群组中的所有人，逐一进行广播
+                    //发送给群组即可，自己也会收到，下面只是简单的示例
+                    //1、查询数据库，找到群组中的所有人，逐一进行广播
+                    //2、或者将每个人登录时都加入group，然后直接在group中广播
                     for ($i = 1; $i < 7; $i++) {
                         Gateway::sendToUid($i, json_encode($req_data));
                     }
